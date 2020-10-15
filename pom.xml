@@ -13,6 +13,11 @@
   	<module>Factory</module>
   	<module>Prototype</module>
   	<module>Singleton</module>
+  	<module>Observer</module>
+  	<module>Strategy</module>
+  	<module>DAO</module>
+  	<module>DependencyInjection</module>
+  	<module>MVC</module>
   </modules>
   
   <build>
